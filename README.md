@@ -20,6 +20,17 @@ This repository accompanies the above manuscript and includes:
 The code is provided to support transparency, reproducibility, and reuse of the
 analysis pipeline described in the manuscript.
 
+## Fiji / ImageJ Jython script
+
+The Jython script performs automated image processing steps including:
+
+-Channel selection and separation
+-Z-projection
+-ROI-based fluorescence quantification
+-Batch processing of image stacks
+
+The script is intended to be run interactively within Fiji and assumes image
+inputs are selected manually by the user.
 
 ## AI-assisted code development statement
 
