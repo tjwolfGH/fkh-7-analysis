@@ -1,10 +1,9 @@
-# fkh-7-analysis
-# Code for <Paper Title>
+# fkh-7 Analysis
 
 This repository contains the analysis, visualization, and image-processing code
 used in:
 
-**<ASD cognate variants of FKH-7/FOXP1 act in sensory neurons and regulate neuronal function>**  
+**<The forkhead transcription factor FKH-7/FOXP acts in C. elegans chemosensory neurons to shape a life history strategy>**  
 Chai et al., <2026>
 
 ---
